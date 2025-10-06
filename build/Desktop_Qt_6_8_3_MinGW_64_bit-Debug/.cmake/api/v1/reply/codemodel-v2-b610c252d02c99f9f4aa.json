@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3f654c72288425c50890.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prueba",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba-Debug-ef220decd32789fc5cee.json",
+					"name" : "prueba",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba_autogen-Debug-06191a115b669b1356ff.json",
+					"name" : "prueba_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prueba_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prueba_autogen_timestamp_deps-Debug-a9d4fcbe28ffe939a79e.json",
+					"name" : "prueba_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Alumnos/Documents/prueba/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Alumnos/Documents/prueba"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
